@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR1d0050/WYG/v1/juan/1
+seq: 1
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1d0050_WYG_001-1a, image: WYG0111/WYG0111-0711c.png}
+body:
+  text: 内外服制通釋卷一宋車垓撰内外服制通釋卷一
+  hash: sha256:60c975bd8477b590636f1b75578ca7ba401663093fecce5edc32e2191e5ea3a9
+metadata:
+  title: 內外服制通釋
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:09:47.807864'
+  source:
+    repository: kanripo
+    path: KR1d0050/KR1d0050_001.txt
+hash: sha256:aa907f6668a67caab436ff6aa577da7d7a7fda9a26ddb509842e769e3d8ab363
