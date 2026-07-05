@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR1d0050_WYG_001-1a, image: WYG0111/WYG0111-0711c.png}
 body:
-  text: 內外服制通釋卷一宋車垓撰內外服制通釋卷一
-  hash: sha256:caff1d3493edfb9be6c1ba3878aef7822e17eca0585d3fa632bef75dc5758413
+  text: 内外服制通釋卷一宋車垓撰内外服制通釋卷一
+  hash: sha256:60c975bd8477b590636f1b75578ca7ba401663093fecce5edc32e2191e5ea3a9
 metadata:
   title: 內外服制通釋
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR1d0050/KR1d0050_001.txt
-hash: sha256:9a7efd7f64722dea376cc2681a33108cca1f7659a2f5aee8e9af5c56b02bd478
+hash: sha256:ca4e32dff32b1ef3379e8a023e272f88d87be38290572d52bd3f96ed9a29d2e4
